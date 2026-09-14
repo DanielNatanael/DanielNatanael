@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @DanielNatanael
-- 👀 I’m interested in design grafis
-- 🌱 I’m currently learning design grafis
-- 💞️ I’m looking to collaborate on tim
-- 📫 How to reach me 
+# Hi, I'm Daniel Natanael Butar Butar👋
 
-<!---
-DanielNatanael/DanielNatanael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Aspiring Data Analyst | SQL | Python | Power BI | Excel
+
+I am a fresh Information Technology graduate interested in Data Analytics and Business Intelligence.
+
+I enjoy transforming raw data into meaningful insights through data cleaning, exploratory analysis, SQL analysis, and interactive dashboards.
+
+### 🛠️ Skills
+
+- Excel
+- SQL / MySQL
+- Python
+- Pandas
+- Power BI
+- DAX
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+### 📊 Featured Project
+
+#### Sales Performance Analysis
+
+End-to-end retail sales analysis using:
+
+`Excel → SQL → Python → Power BI`
+
+Analyzed:
+
+- Sales and profit performance
+- Category and regional performance
+- Discount impact on profitability
+- Customer behavior
+- Returned orders
+- Loss-making products
+
+🔗 [View Project](https://github.com/DanielNatanael/sales-performance-analysis)
+
+### 🌐 Portfolio
+
+🔗 https://danielnatanael.github.io/daniel-portofolio/
+
+### 📫 Contact
+
+Feel free to connect with me through GitHub or LinkedIn.
