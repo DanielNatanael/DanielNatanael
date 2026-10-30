@@ -37,9 +37,7 @@ Analyzed:
 
 🔗 [View Project](https://github.com/DanielNatanael/sales-performance-analysis)
 
-### 🌐 Portfolio
 
-🔗 https://danielnatanael.github.io/daniel-portofolio/
 
 ### 📫 Contact
 
