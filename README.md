@@ -35,9 +35,10 @@ Analyzed:
 - Returned orders
 - Loss-making products
 
-🔗 [View Project](https://github.com/DanielNatanael/sales-performance-analysis)
+#### View Project
+🔗 [Sales Performance Analysis](https://github.com/DanielNatanael/sales-performance-analysis)
 
-
+Sales Performance Analysis
 
 ### 📫 Contact
 
